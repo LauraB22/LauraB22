@@ -1,7 +1,6 @@
 ### Hi there, ✨ I'm Laura Bazaldua Monroy ✨
 
-
-[I_will-removebg-preview](https://user-images.githubusercontent.com/66887013/215638089-0cc0c973-4f8e-4f6c-8123-1d177bf490fe.png)
+![Programming]()
 
 Hi, my name is Laura Bazaldua Monroy, I'm a mexican girl and I’m currently working on IBM as an intern since 7 months ago 
 - 🔭 I'm a student of Telematics Engeneering in the Intituto Politécnico Nacional 
