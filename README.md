@@ -27,6 +27,10 @@ Hi, my name is Laura Bazaldua Monroy, I'm a mexican girl and I’m currently wor
 ![image](https://user-images.githubusercontent.com/66887013/215653893-148eb72e-6428-4de7-977c-8341481cf3ca.png)
 
 
+### 📊 Most Used Language
+
+https://github-readme-stats.vercel.app/api/top-langs/?LauraB22={LauraB22}
+
 
 
 <!--
