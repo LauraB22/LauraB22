@@ -1,6 +1,6 @@
 ### Hi there, ✨ I'm Laura Bazaldua Monroy ✨
 
-![Programming]()
+![Programming](https://github.com/LauraB22/LauraB22/blob/master/images/programming.gif)
 
 Hi, my name is Laura Bazaldua Monroy, I'm a mexican girl and I’m currently working on IBM as an intern since 7 months ago 
 - 🔭 I'm a student of Telematics Engeneering in the Intituto Politécnico Nacional 
