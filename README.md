@@ -36,8 +36,6 @@ Hi, my name is Laura Bazaldua Monroy, I'm a mexican girl and I’m currently wor
 
 
 ### 🌎   Find me around the web:
-- <a title="Linkedin" href="www.linkedin.com/in/laura-bazaldua-monroy"><img src="https://github.com/LauraB22/LauraB22/blob/master/images/linkedin%20(1).png"/></a>
-- 
 <!--
 **LauraB22/LauraB22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
