@@ -2,7 +2,7 @@
 
 ![Programming](https://github.com/LauraB22/LauraB22/blob/master/images/programming.gif)
 
-Hi, my name is Laura Bazaldua Monroy, I'm a mexican girl and I’m currently working on IBM as an intern since 7 months ago 
+Hi, my name is Laura Bazaldua Monroy, I'm a mexican girl and I’m currently working on IBM as an intern for 7 months 
 - 🔭 I'm a student of Telematics Engeneering in the Intituto Politécnico Nacional 
 - ⚡ Fun fact: I like listening to music, specially korean music 
 - 🧩 I'm also interested in design, I've used Adobe XD to design Mock-ups for apps
