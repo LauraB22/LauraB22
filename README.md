@@ -28,10 +28,11 @@ Hi, my name is Laura Bazaldua Monroy, I'm a mexican girl and I’m currently wor
 
 
 ### 📊 Most Used Language
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraB22&theme=radical)
 
-https://github-readme-stats.vercel.app/api/top-langs/?LauraB22={LauraB22}
+### 📟 GitHub Stats
 
-
+![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LauraB22&theme=radical)
 
 <!--
 **LauraB22/LauraB22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
