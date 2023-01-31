@@ -13,7 +13,6 @@ Hi, my name is Laura Bazaldua Monroy, I'm a mexican girl and I’m currently wor
 ![image](https://user-images.githubusercontent.com/66887013/215653153-218718e1-b618-4aaa-a896-952a00cedae0.png)
 ![image](https://user-images.githubusercontent.com/66887013/215653202-9f42c683-af90-40cb-9258-2a4d92de1d98.png)
 ![image](https://user-images.githubusercontent.com/66887013/215653245-e731b177-b44f-4e71-aa6c-d560a93a9db1.png)
-![image](https://user-images.githubusercontent.com/66887013/215653267-768a8b19-75f1-4b8d-bf87-190e5d1de3de.png)
 ![image](https://user-images.githubusercontent.com/66887013/215653459-fbbda1e9-877d-4ce1-9e9b-9d58d1622e76.png)
 ![image](https://user-images.githubusercontent.com/66887013/215653487-48c8396e-61a5-4d67-8cd5-d4bff9157aa6.png)
 ![image](https://user-images.githubusercontent.com/66887013/215653611-2a7464c5-3647-4981-8301-be4dd8a08a8d.png)
