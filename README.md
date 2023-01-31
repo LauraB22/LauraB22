@@ -1,4 +1,4 @@
-### Hi there, ✨ I'm Laura Bazaldua Monroy ✨
+# Hi there, ✨ I'm Laura Bazaldua Monroy ✨
 
 ![Programming](https://github.com/LauraB22/LauraB22/blob/master/images/programming.gif)
 
